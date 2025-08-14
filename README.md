@@ -10,7 +10,7 @@
 
 ## Web UI Automation Testing (Robot Framework + SeleniumLibrary)
 **1. Search page**
-#### Test script creation from the following URL: [Web link to be used for testing](https://automate-test.stpb-digital.com/register/).
+#### Test script creation from the following URL: [Web link to be used for testing](https://automate-test.stpb-digital.com/user/list/). ([The screenshot of Search page]( https://drive.google.com/file/d/1P-kRCkLIcDRxU2H650wXgoX506YydggH/view?usp=sharing). )
 * Test case automate Search page [The Google Sheets document here](https://docs.google.com/spreadsheets/d/131Q2TTnvVf1CB2UzJfbZwsSZh4YOyadg30bCwFAZBBA/edit?usp=sharing).
 * Robot-Framework-Search page [Link to the Robot Framework + SeleniumLibrary coding for the search page](https://github.com/sangsanggg/Robot-Framework-Search-page).
   
@@ -20,9 +20,9 @@
   - Modify part of the script to use a Test Template.
   - Keywords must be created in argument-based format.
   - Use a Resource file.
-  
+
 **2. Register page**
-#### Test script creation from the following URL: [Web link to be used for testing](https://automate-test.stpb-digital.com/register/).
+#### Test script creation from the following URL: [Web link to be used for testing](https://automate-test.stpb-digital.com/register/). ([The screenshot of Register page]( https://drive.google.com/file/d/12ZQWbKqCBuYxw7zOEECTOF56HlCInz5T/view?usp=sharing). )
   * Test case automate Register page [The Google Sheets document here](https://docs.google.com/spreadsheets/d/1Vqg3w4GCA3FHGwc0Nu_LTwH59N--tZK5VuMeO9mbib0/edit?usp=sharing).
   * Robot-Framework-Register page [Link to the Robot Framework + SeleniumLibrary coding for the register page](https://github.com/sangsanggg/Robot-Framework-Register).
   
@@ -33,7 +33,7 @@
  
 ## Log Issue/Defect
 #### Take the defects of users received and write them into the Log Issue file and categorize type the defects including the priority of the defects.
-* Defect of user [a PDF from defect of user](https://drive.google.com/file/d/1otnp3irqR62hJm5oITY1zd3SInm5Q2bp/view?usp=sharing).
+* Defect of user [a PDF from defect of user](https://drive.google.com/file/d/1az7TgZOyiWU8a4eVcoFHSb9k0m5fhRz-/view?usp=sharing).
 * Log Issue file [The Google Sheets document here](https://docs.google.com/spreadsheets/d/15nLBS1huryyiT8LjybZBAHlVXqzWJuCsUT1zQ_Do6eM/edit?usp=sharing).
 
 ## Test Report
