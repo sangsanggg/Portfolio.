@@ -28,7 +28,7 @@
   
 **3. Login page**
 #### Test script creation from the following URL: [Web link to be used for testing](https://automate-test.stpb-digital.com/login/).
-  * Test case automate Login page [The Google Sheets document here]([https://docs.google.com/spreadsheets/d/1Oy0Zg6-BYYd6Lj_ZmWuZWb6WldA7To_SzNtr09nwbaI/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1AX2c3yJAefEc8P6uwOMN0ox3WcDAHZwUU0P6UJfnXwI/edit?usp=sharing)).
+  * Test case automate Login page [The Google Sheets document here](https://docs.google.com/spreadsheets/d/1AX2c3yJAefEc8P6uwOMN0ox3WcDAHZwUU0P6UJfnXwI/edit?usp=sharing).
   * Robot-Framework-Login page [Link to the Robot Framework + SeleniumLibrary coding for the login page](https://github.com/sangsanggg/Robot-Framework-Login).
  
 ## Log Issue/Defect
